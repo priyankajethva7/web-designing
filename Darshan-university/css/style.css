@@ -1,0 +1,131 @@
+#loading{
+    width:100%;
+    height:100vh;
+    background: #fff 
+    url('http://trippleo.co.za/wp-content/uploads/2021/03/loader-1.gif') 
+    no-repeat center;
+    position: fixed;
+    z-index: 99999;
+}
+.abc
+{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(183, 23, 23);
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+    top: 0;
+    text-decoration: none;
+    color: white;
+   
+   
+}
+.email{
+    text-decoration: none;
+    color: white;
+}
+
+.glyphicon-cloud{
+    margin-left: 875px;
+}
+.glyphicon-remove{
+    margin-left: 50px;
+ }
+.glyphicon-user{
+    margin-left: 50px;
+}
+.glyphicon-envelope{
+    margin-left: 50px; 
+}
+.glyphicon-thumbs-up{
+    margin-left: 50px; 
+}
+.def
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(245, 236, 236, 0.363);
+    display: flex;
+    flex-direction: row;
+    
+}
+.logo
+{
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: rgb(252, 250, 250);
+    font-weight: 600;
+    padding: 0px 5px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.def-link ul li 
+{
+    display: inline-block;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin-top: 1%;
+}
+.def-link a 
+{
+    color:rgb(252, 250, 250);
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 300;
+}
+.slider
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+   
+   
+}
+.slider-content 
+{
+    width: 40%;
+    height: auto;
+    margin: 0;
+    margin-left: 10%;
+    color: rgb(252, 250, 250);
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 10%;
+}
+#btn-enrollment
+{
+    width: 250px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(183, 23, 23);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-right: 7%;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPah2iby6zrMOau0Zk7vY_jESotsAiWlnd-Q&usqp=CAU");
+}
+.ghi{
+    margin-top: 7%;
+}
+.other{
+    background: cover;
+    background-color: white;
+}
+.our{
+    margin-left: 575px;
+    margin-top: 2%;
+}
+
